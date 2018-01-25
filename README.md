@@ -17,7 +17,7 @@ Course notes for Accelerated ES6 JavaScript Training on Udemy
 
 ## Course Notes
 
-- [x] [Syntax Changes/Extensions]()
+- [x] [Syntax Changes/Extensions](https://github.com/robinsswei/Accelerated-ES6-JavaScript-Training/blob/master/Syntax_Changes_Extensions.md)
 - [ ] [Modules & Classes]()
 - [ ] [Symbols]()
 - [ ] [Iterators & Generators]()
